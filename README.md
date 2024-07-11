@@ -1,4 +1,4 @@
-# avoid_game
+# dodge_game
  2024MDP프로젝트
  유현재 단독
  
